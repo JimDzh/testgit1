@@ -1,0 +1,16 @@
+   98  git push origin main
+   99  git status
+  100  git diff
+  101  git status
+  102  git diff
+  103  clear
+  104  reset
+  105  pwd
+  106  cd ..
+  107  pwd
+  108  cd
+  109  pwd
+  110  cd /Desktop/testgit1
+  111  cd /Users/jim/Desktop/testgit1
+  112  pwd
+  113  cd /Users/jim/Desktop/testgit1 
